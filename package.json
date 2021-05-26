@@ -1,0 +1,22 @@
+{
+  "name": "pagina-web-prueba",
+  "version": "1.0.0",
+  "description": "esto es una pagina web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RickG96/pagina-web-prueba.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RickG96/pagina-web-prueba/issues"
+  },
+  "homepage": "https://github.com/RickG96/pagina-web-prueba#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
