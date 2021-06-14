@@ -1,0 +1,36 @@
+<? xml encoding="UT-8" ?>
+<bookstore>
+  <book category="childern" content="false" />
+  <book category="children">
+    <title>Harry Potter</title>
+    <author>J K. Rowling</author>
+    <year>2005</year>
+    <bookstore>
+      <book category="Xtra">
+        <title>alvALV</title>
+      </book>
+      <book category="Xtrax222">
+        <title>me lleva la verga</title>
+      </book>
+    </bookstore>
+    <price>29.99</price>
+  </book>
+  <book category="web">
+    <title>Learning XML</title>
+    <author>Erik T. Ray</author>
+    <year>2003</year>
+    <price>39.95</price>
+  </book>
+  <magazine category="science">
+    <title>Harry Potter</title>
+    <author>J K. Rowling</author>
+    <year>2005</year>
+    <price>29.99</price>
+  </magazine>
+  <book category="web">
+    <title>Learning XML</title>
+    <author>Erik T. Ray</author>
+    <year>2003</year>
+    <price currency="Q.">39.95</price>
+  </book>
+</bookstore>
